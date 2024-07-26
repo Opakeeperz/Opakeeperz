@@ -2,7 +2,7 @@
 - 👀 I’m interested in python (a LOT)
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on no one
-- 📫 How to reach me (click me)[hassan.aldarkazali@icloud.com]
+- 📫 How to reach me [click me i am a md link](hassan.aldarkazali@icloud.com)
 - 😄 Pronouns: he, him, his
 - ⚡ Fun fact: i am making a game
 
