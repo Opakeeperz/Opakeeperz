@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on no one
 - 📫 How to reach me [click me i am a md link](hassan.aldarkazali@icloud.com)
 - 😄 Pronouns: he, him, his
-- ⚡ Fun fact: i am making a game
+- ⚡ Fun fact: I cant use rust😭
 
 <!---
 Opakeeperz/Opakeeperz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
